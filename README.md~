@@ -1,0 +1,6 @@
+# TinyOS_telob_dewi
+DEWI project implementation
+
+#Build Instructions
+cd TinyOS_telosb_DEWI/src/
+make telosb
