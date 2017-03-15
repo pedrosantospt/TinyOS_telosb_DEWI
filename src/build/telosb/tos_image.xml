@@ -1,13 +1,13 @@
 <tos_image>
   <ident>
-    <hostname>ubuntu</hostname>
-    <userhash>BB3D18E8L</userhash>
-    <uidhash>6CCA1397L</uidhash>
-    <platform>telosb</platform>
+    <uidhash>2239F35BL</uidhash>
     <username>dewi</username>
-    <timestamp>58C7D582L</timestamp>
+    <userhash>BB3D18E8L</userhash>
     <appname>MoteToMoteAppC</appname>
+    <platform>telosb</platform>
+    <timestamp>58C818A5L</timestamp>
     <deluge_support>no</deluge_support>
+    <hostname>ubuntu</hostname>
   </ident>
   <image format="ihex">
 :104000005542200135D0085A82459212314000397C
